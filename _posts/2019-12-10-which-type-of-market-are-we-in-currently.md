@@ -19,7 +19,7 @@ youtube_code: c-lvIRG9PB4
 
 {% include youtube.html %}
 
-<center><em>Is our market a buyer’s or a seller’s market?</em></center>
+<center><em>Is our market a buyer&rsquo;s or a seller&rsquo;s market?</em></center>
 
 <br>Sue from Gilford, New Hampshire asked us a great question recently: Is this a buyer’s or a seller’s market?
 
