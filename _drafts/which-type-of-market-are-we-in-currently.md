@@ -19,7 +19,9 @@ youtube_code: c-lvIRG9PB4
 
 {% include youtube.html %}
 
-Sue from Gilford, New Hampshire asked us a great question recently: Is this a buyer’s or a seller’s market?
+<center><em>Is our market a buyer’s or a seller’s market?</em></center>
+
+<br>Sue from Gilford, New Hampshire asked us a great question recently: Is this a buyer’s or a seller’s market?
 
 The answer is that **we are definitely in a seller’s market**, meaning more buyers are looking for homes than there are sellers in the market. This has been the case over the past few years, meaning that property values have gone up steadily since 2014.
 
