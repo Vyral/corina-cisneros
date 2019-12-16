@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Is our market a buyer’s or a seller’s market?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Corina+Cisneros/Videos/Which+Type+of+Market+Are+We+in+Currently_.mp4
 pullquote: >-
   Today’s home sellers are getting nearly 100% of their asking price—sometimes
   even more due to multiple-offer situations!
