@@ -19,7 +19,7 @@ youtube_code: EFn3B6LZ8S8
 
 {% include youtube.html %}
 
-<center><em>Zillow is a good starting point if you want to know what a home is worth, but it’s far from set in stone.</em></center>
+<center><em>Zillow is a good starting point if you want to know what a home is worth, but it&rsquo;s far from set in stone.</em></center>
 
 <br>I’m back to answer another one of your real estate questions. Ellen from Belmont wants to know, “How accurate is the Zillow Zestimate?” I love Zillow and I work with a ton of buyers who come to me through Zillow. They always want to know about the Zestimate, so here’s what I tell them.
 
