@@ -19,7 +19,9 @@ youtube_code: EFn3B6LZ8S8
 
 {% include youtube.html %}
 
-I’m back to answer another one of your real estate questions. Ellen from Belmont wants to know, “How accurate is the Zillow Zestimate?” I love Zillow and I work with a ton of buyers who come to me through Zillow. They always want to know about the Zestimate, so here’s what I tell them.
+<center><em>Zillow is a good starting point if you want to know what a home is worth, but it’s far from set in stone.</em></center>
+
+<br>I’m back to answer another one of your real estate questions. Ellen from Belmont wants to know, “How accurate is the Zillow Zestimate?” I love Zillow and I work with a ton of buyers who come to me through Zillow. They always want to know about the Zestimate, so here’s what I tell them.
 
 **The Zestimate is Zillow’s best guess of what your home is worth, but in the end it’s still just a guess**. They don’t know about any improvements you’ve made or about your local market in general. They admit themselves that they are never 100% accurate, and most of the time they aren’t even 80% accurate.
 
