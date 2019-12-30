@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Zillow is a good starting point if you want to know what a home is worth, but
   it’s far from set in stone.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Corina+Cisneros/Videos/The+Truth+About+Zestimates.mp4
 pullquote: There is a lot of information that Zillow doesn’t have.
 enclosure_type: video/mp4
 enclosure_time:
