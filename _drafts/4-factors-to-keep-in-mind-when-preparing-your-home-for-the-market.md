@@ -21,7 +21,9 @@ youtube_code: EFn3B6LZ8S8
 
 {% include youtube.html %}
 
-If you’re thinking of selling your home in 2020 and wondering how you need to prepare it for the market, here are the four key factors you need to keep in mind:
+<center><em>There are four factors you need to keep in mind when preparing your home for the market.</em></center>
+
+<br>If you’re thinking of selling your home in 2020 and wondering how you need to prepare it for the market, here are the four key factors you need to keep in mind:
 
 **1\. The market’s condition**. In a strong seller’s market, you don’t need to do too much since there’s little inventory and not much competition. You can price your home reasonably and it will sell no matter what. If you overprice your home, though, it will sit on the market, which you don’t want.
 
