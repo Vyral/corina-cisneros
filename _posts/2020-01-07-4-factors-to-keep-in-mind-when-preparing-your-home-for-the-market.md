@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   There are four factors you need to keep in mind when preparing your home for
   the market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Corina+Cisneros/Videos/4+Factors+to+Keep+in+Mind+When+Preparing+Your+Home+for+the+Market.mp4
 pullquote: >-
   If all the listings in your neighborhood are cleaned and renovated, you need
   to do the same for yours.
