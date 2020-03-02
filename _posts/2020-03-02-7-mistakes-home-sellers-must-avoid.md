@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   When listing your home, there are seven mistakes you must avoid if you want to
   sell quickly and for top dollar.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Corina+Cisneros/Videos/7+Mistakes+Home+Sellers+Must+Avoid.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,7 +19,7 @@ youtube_code: ZRs-K6mK26c
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>When listing your home, there are seven mistakes you must avoid if you want to sell quickly and for top dollar. </em></p>
+*When listing your home, there are seven mistakes you must avoid if you want to sell quickly and for top dollar. *
 
 So you’ve decided to put your home on the market—congratulations\! When I meet with sellers, I tell them, among other things, to declutter and clean their home, paint a couple of rooms, and fix the landscaping. That’s standard practice, but what I want to talk to you about today are the seven mistakes you *must* avoid that can kill your home sale.&nbsp;
 
