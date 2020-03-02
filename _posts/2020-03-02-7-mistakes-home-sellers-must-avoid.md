@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/sabotage-yt-corina-cisneros.jpg
-youtube_code: ZRs-K6mK26c
+youtube_code: p3YzRk5oYe0
 ---
 
 {% include youtube.html %}
