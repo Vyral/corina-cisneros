@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/corona-yt-corinacisneros.jpg
-youtube_code: z1srbFx1-XY
+youtube_code: Bs8IAhUzjVc
 ---
 
 <style type="text/css">p.small {
