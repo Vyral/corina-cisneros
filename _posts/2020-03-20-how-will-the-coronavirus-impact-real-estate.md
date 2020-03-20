@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Will the Coronavirus Impact Real Estate?
-date: 2020-03-20 15:04:20
+date: 2020-03-20 15:04:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/corona-yt-corinacisneros.jpg
-youtube_code: gQk9aPtjzTE
+youtube_code: z1srbFx1-XY
 ---
 
 <style type="text/css">p.small {
@@ -27,7 +27,7 @@ p.big {
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>The coronavirus has dominated the news and our daily lives. Here’s what you need to know about its effects from a real estate perspective.</em></p>
+*The coronavirus has dominated the news and our daily lives. Here’s what you need to know about its effects from a real estate perspective.*
 
 The white elephant in the room is actually a microbe, and today I want to talk about how we’re protecting our business, our clients, and ourselves during these uncertain times. I won’t be talking about the coronavirus itself today, but there are some great resources on the [CDC website](https://www.cdc.gov/coronavirus/2019-ncov/index.html)&nbsp;or [211nh.org](http://211nh.org) for local information in New Hampshire.
 
