@@ -27,7 +27,7 @@ p.big {
 
 {% include youtube.html %}
 
-*The coronavirus has dominated the news and our daily lives. Here’s what you need to know about its effects from a real estate perspective.*
+<p style="text-align:center"><em>The coronavirus has dominated the news and our daily lives. Here’s what you need to know about its effects from a real estate perspective.</em></p>
 
 I want to talk about how we’re protecting our business, our clients, and ourselves during these uncertain times. I won’t be talking about the coronavirus itself today, but there are some great resources on the [CDC website](https://www.cdc.gov/coronavirus/2019-ncov/index.html)&nbsp;or [211nh.org](http://211nh.org) for local information in New Hampshire.
 
