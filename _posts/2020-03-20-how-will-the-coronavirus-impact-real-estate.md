@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Will the Coronavirus Impact Real Estate?
-date:
+date: 2020-03-20 15:04:20
 tags:
   - Real Estate
 excerpt: >-
