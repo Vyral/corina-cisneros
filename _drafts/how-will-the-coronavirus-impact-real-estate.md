@@ -21,7 +21,7 @@ youtube_code: gQk9aPtjzTE
 
 The coronavirus has dominated the news (and our daily lives.) Here’s what you need to know about its effects, from a real estate perspective.
 
-The white elephant in the room is actually a microbe, and today I want to talk about how we’re protecting our business, our clients, and ourselves during these uncertain times. I won’t be talking about the coronavirus itself today, but there are some great resources on the [CDC website](https://www.cdc.gov/coronavirus/2019-ncov/index.html)or [211nh.org](http://211nh.org) for local information in New Hampshire.
+The white elephant in the room is actually a microbe, and today I want to talk about how we’re protecting our business, our clients, and ourselves during these uncertain times. I won’t be talking about the coronavirus itself today, but there are some great resources on the [CDC website](https://www.cdc.gov/coronavirus/2019-ncov/index.html)&nbsp;or [211nh.org](http://211nh.org) for local information in New Hampshire.
 
 The National Association of Realtors has issued some guidelines, which I’d like to talk to you more about today. **Here’s an outline of my discussion, with timestamps so you can skip around to the section(s) you are most&nbsp; interested in:**
 
