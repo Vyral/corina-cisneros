@@ -19,7 +19,7 @@ youtube_code: otVIoQSZjD8
 
 {% include youtube.html %}
 
-<p style="text-align:center">I’m discussing several topics relevant to real estate related to the coronavirus.</p>
+<p style="text-align:center"><em>I’m discussing several topics relevant to real estate related to the coronavirus.</em></p>
 
 There is no playbook for how to conduct real estate during a pandemic; we’ve never had to deal with something like this. During these challenging times, agents are having to figure things out as we go. Today I’m discussing several topics pertinent to what’s happening with real estate concerning the coronavirus. To bring a little joy, my dog Chiquita Banana is also joining us for part of this video.
 
