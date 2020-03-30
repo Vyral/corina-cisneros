@@ -19,7 +19,7 @@ There is no playbook for how to conduct real estate during a pandemic; we’ve n
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
-0:00: Introduction to today’s topic
+<p style="LINE-HEIGHT:20px">0:00: Introduction to today’s topic
 
 1:15: A statement from Laurence Yun, the National Association of Realtors’ chief economist
 
@@ -37,6 +37,6 @@ There is no playbook for how to conduct real estate during a pandemic; we’ve n
 
 11:35: Fun news: If you close with us during this time, Chiquita Banana will be at the closing\!
 
-11:45: Wrapping up today’s topic
+11:45: Wrapping up today’s topic</p>
 
 I also wanted to reiterate a message you may have already received from me: If you or your family need anything during these unprecedented times, even if it’s not related to real estate, I and my sons Freddie and Alex are prepared to help you in any way we can. Call, text, or email me, and we’ll be there for you.
