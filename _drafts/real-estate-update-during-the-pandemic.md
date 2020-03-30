@@ -20,25 +20,15 @@ There is no playbook for how to conduct real estate during a pandemic; we’ve n
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
 0:00: Introduction to today’s topic
-
 1:15: A statement from Laurence Yun, the National Association of Realtors’ chief economist
-
 2:20: Statistics and figures accurate at the recording of this video
-
 2:55: The impact of COVID-19 to real estate showings in North America
-
 3:30: The impact of COVID-19 to real estate showings in New Hampshire
-
 5:20: Why our market is still hot and fluid
-
 6:45: The hurdles real estate agents have been jumping over during this difficult time
-
 8:25: Right now we’re a tale of two markets
-
 9:40: Some uplifting thoughts on all of this
-
 11:35: Fun news: If you close with us during this time, Chiquita Banana will be at the closing\!
-
 11:45: Wrapping up today’s topic
 
 I also wanted to reiterate a message you may have already received from me: If you or your family need anything during these unprecedented times, even if it’s not related to real estate, I and my sons Freddie and Alex are prepared to help you in any way we can. Call, text, or email me, and we’ll be there for you.
