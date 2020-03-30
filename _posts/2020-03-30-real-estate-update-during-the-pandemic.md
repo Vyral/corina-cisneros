@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Real Estate Update During the Pandemic
-date: 2020-03-30 20:17:55
+date: 2020-03-30 20:17:00
 tags:
+  - Market Update
 excerpt: >-
   I’m discussing several topics relevant to real estate related to the
   coronavirus.
