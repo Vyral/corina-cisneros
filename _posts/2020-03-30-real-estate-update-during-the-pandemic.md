@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   I’m discussing several topics relevant to real estate related to the
   coronavirus.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Corina+Cisneros/Videos/Real+Estate+Update+During+the+Pandemic.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
