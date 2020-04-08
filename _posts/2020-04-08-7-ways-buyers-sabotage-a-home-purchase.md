@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 7 Ways Buyers Sabotage a Home Purchase
-date: 2020-04-08 21:23:06
+date: 2020-04-08 21:23:00
 tags:
 excerpt: >-
   If you’re slow to act, uninformed about market conditions, and sloppy with
   your offer, you’re shooting yourself in the foot as a buyer. Here’s what not
   to do in our market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Corina+Cisneros/Videos/7+Ways+Buyers+Sabotage+a+Home+Purchase.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
