@@ -19,7 +19,7 @@ youtube_code: L1F4DPB1UBk
 
 {% include youtube.html %}
 
-If you’re slow to act, uninformed about market conditions, and sloppy with your offer, you’re shooting yourself in the foot as a buyer. Here’s what not to do in our market.&nbsp;
+<p style="text-align:center">If you’re slow to act, uninformed about market conditions, and sloppy with your offer, you’re shooting yourself in the foot as a buyer. Here’s what not to do in our market.</p>&nbsp;
 
 Our current real estate market is still moving, and it’s characterized by low interest rates and low inventory. Now more than ever, buyers need to understand the importance of getting pre-approved. Giving yourself an edge isn’t as hard as you think it is; here are seven easily avoidable things that will hurt your chances as a buyer in our market:&nbsp;
 
