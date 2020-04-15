@@ -21,7 +21,7 @@ youtube_code: BsDb_4wKE00
 
 {% include youtube.html %}
 
-<p style="text-align:center">If you’re having flashbacks to the pain inflicted by the 2008 housing crash right now, that’s understandable, but I’m sharing six reasons why you shouldn’t worry.</p>
+<p style="text-align:center"><em>If you’re having flashbacks to the pain inflicted by the 2008 housing crash right now, that’s understandable, but I’m sharing six reasons why you shouldn’t worry.</em></p>
 
 Here are six solid reasons why what we’re facing now won’t lead to the housing market collapse that scarred us in 2008:&nbsp;
 
