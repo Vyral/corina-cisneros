@@ -1,13 +1,14 @@
 ---
 layout: post
 title: My Blooper Video
-date: 2020-04-24 16:23:40
+date: 2020-04-24 16:23:00
 tags:
   - Real Estate
 excerpt: >-
   I’m sharing some of my bloopers to give you a laugh during these challenging
   times.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Corina+Cisneros/Videos/My+Blooper+Video.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
