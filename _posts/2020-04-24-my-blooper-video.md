@@ -13,13 +13,13 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/bloopers-yt-corina-cisneros.jpg
+youtube_alternate_image: /uploads/blooper2-yt-corina-cisneros.jpg
 youtube_code: EKkFE_Zsnmo
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>I’m sharing some of my bloopers to give you a laugh during these challenging times.</em></p>
+*I’m sharing some of my bloopers to give you a laugh during these challenging times.*
 
 During these difficult times, we could all use a laugh. Today **I’m sharing some bloopers from filming my videos.** I hope you enjoy these as much as I do\! Hear me accidentally curse (bleeped), misspeak, make strange faces, and more. Also, an appearance from Chiquita Banana having to deal with my antics.&nbsp;
 
