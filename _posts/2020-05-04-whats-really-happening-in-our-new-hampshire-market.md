@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What’s Really Happening in our New Hampshire Market?
-date: 2020-05-04 21:03:19
+date: 2020-05-04 21:03:00
 tags:
   - Market Update
 excerpt: >-
   As the COVID-19 pandemic continues, our New Hampshire market is hitting
   unprecedented heights.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Corina+Cisneros/Videos/Whats+Really+Happening+in+our+New+Hampshire+Market_.mp4
 pullquote: >-
   Since there are more buyers than there are sellers, this puts us in a seller’s
   market.
