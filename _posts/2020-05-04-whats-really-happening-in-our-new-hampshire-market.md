@@ -21,7 +21,7 @@ youtube_code: VFP_EBc116k
 
 {% include youtube.html %}
 
-<p style="text-align:center">As the COVID-19 pandemic continues, our New Hampshire market is hitting unprecedented heights.</p>
+<p style="text-align:center"><em>As the COVID-19 pandemic continues, our New Hampshire market is hitting unprecedented heights.</em></p>
 
 What’s really happening in the New Hampshire real estate market?
 
