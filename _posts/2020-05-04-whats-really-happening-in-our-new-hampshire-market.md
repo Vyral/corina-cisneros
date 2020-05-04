@@ -21,11 +21,11 @@ youtube_code: VFP_EBc116k
 
 {% include youtube.html %}
 
-<p style="text-align:center">As the COVID-19 pandemic continues, our New Hampshire market is hitting unprecedented heights.</p>
+As the COVID-19 pandemic continues, our New Hampshire market is hitting unprecedented heights.
 
 What’s really happening in the New Hampshire real estate market?
 
-As you recall, I explained in my previous video (which you can revisit here) why today’s market isn’t similar to what we saw back in 2008. One of the reasons why we won’t see that situation again for a very long time is that **New Hampshire has had a housing crisis for the past 15 years.** Economists confirm that we’re about 15,000 to 20,000 properties short of being able to house our workforce.&nbsp;
+As you recall, I explained in my previous video (which you can revisit [here](/6-reasons-why-this-2020-chaos-wont-be-2008s-housing-crash.html)) why today’s market isn’t similar to what we saw back in 2008. One of the reasons why we won’t see that situation again for a very long time is that **New Hampshire has had a housing crisis for the past 15 years.** Economists confirm that we’re about 15,000 to 20,000 properties short of being able to house our workforce.&nbsp;
 
 As you can see in the graph at 1:22 in the video, the inventory of homes for sale is as low as it’s been since 2005. Since there are more buyers than there are sellers, this puts us in a seller’s market. In the next graph, you can see the result of this low inventory: Prices have gone up for the last decade or so. If you’re a buyer, you’ll have to pay top dollar to get the home you want. Finally, the last graph shows that sellers are getting close to 100% of their asking price, and they’re often generating multiple offers.
 
