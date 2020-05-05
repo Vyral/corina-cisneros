@@ -21,8 +21,7 @@ youtube_code: VFP_EBc116k
 
 {% include youtube.html %}
 
-<p style="text-align:center">As the COVID-19 pandemic continues, our New Hampshire market is hitting unprecedented heights.</p>
-
+<p style="text-align:center"><em>As the COVID-19 pandemic continues, our New Hampshire market is hitting unprecedented heights.</em>
 What’s happening in the New Hampshire real estate market?
 
 As you recall, I explained in my previous video (which you can revisit [here](/6-reasons-why-this-2020-chaos-wont-be-2008s-housing-crash.html)) why today’s market isn’t similar to what we saw back in 2008. One of the reasons why we won’t see that situation again for a very long time is that **New Hampshire has had a housing crisis for the past 15 years.** Economists confirm that we’re about 15,000 to 20,000 properties short of being able to house our workforce.&nbsp;
