@@ -19,7 +19,7 @@ youtube_code: Gf-qGHZmb2o
 
 {% include youtube.html %}
 
-<p style="text-align:center">Truly, now’s the perfect time to sell. Here’s how I help sellers begin.</p>
+<p style="text-align:center"><em>Truly, now’s the perfect time to sell. Here’s how I help sellers begin.</em></p>
 
 One of the things I do with my prospective sellers is go to their home and lead what’s called a one-on-one Discovery consultation. This is very important because in today's market, we’re dealing with a lot more moving pieces than usual.&nbsp;
 
