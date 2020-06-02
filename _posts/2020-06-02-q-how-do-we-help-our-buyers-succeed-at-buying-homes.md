@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Q: How Do We Help Our Buyers Succeed at Buying Homes?'
-date: 2020-06-02 16:53:36
+date: 2020-06-02 16:53:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   We pride ourselves in our ability to help our homebuyers succeed at buying
   homes, but how exactly do we do that?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Corina+Cisneros/Videos/Q-+How+Do+We+Help+Our+Buyers+Succeed+at+Buying+Homes_.mp4
 pullquote: >-
   We’ve simplified the home buying process because we’ve been doing it every
   day.
