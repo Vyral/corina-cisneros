@@ -21,7 +21,7 @@ youtube_code: W7sNfpfg1Uw
 
 {% include youtube.html %}
 
-<p style="text-align:center">We pride ourselves in our ability to help our homebuyers succeed at buying homes, but how exactly do we do that?</p>
+<p style="text-align:center"><em>We pride ourselves in our ability to help our homebuyers succeed at buying homes, but how exactly do we do that?</em></p>
 
 Before we begin the journey of purchasing a home with our buyers, it’s important that we meet with them in person or via Zoom to hold a discovery session, which allows us to set expectations and understand what buyers really want, as opposed to what you thought you wanted. This is where we’ll also discuss important things like pre-qualification, price ranges, locations, floor plans, acreages, and more so that I can better help you pin down the right home for you.&nbsp;
 
