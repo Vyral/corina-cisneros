@@ -43,4 +43,4 @@ Before we begin the journey of purchasing a home with our buyers, it’s importa
 
 You don’t have to take my word for it: Feel free to visit our website, look at our reviews on Zillow, follow our blog, and listen to our radio show “Let’s Talk Real Estate\!” Saturday mornings at 8:30 on WEEI 101.5.
 
-In the meantime, if you have any questions or need any assistance, don’t he
+In the meantime, if you have any questions or need any assistance, don’t hesitate to reach out!
