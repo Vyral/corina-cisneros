@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What’s a Discovery Consultation & Why Do I Need It?'
-date: 2020-06-05 18:00:33
+date: 2020-06-05 18:00:00
 tags:
   - Home Seller Tips
 excerpt: 'Truly, now’s the perfect time to sell. Here’s how I help sellers begin.'
@@ -12,13 +12,13 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/discovery-yt-corina-cisneros-1.jpg
+youtube_alternate_image: /uploads/discovery-yt-corina-cisneros-1-1.jpg
 youtube_code: J9sa2WOotbw
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>Truly, now’s the perfect time to sell. Here’s how I help sellers begin.</em></p>
+*Truly, now’s the perfect time to sell. Here’s how I help sellers begin.*
 
 One of the things I do with my prospective sellers is go to their home and lead what’s called a one-on-one Discovery consultation. This is very important because in today's market, we’re dealing with a lot more moving pieces than usual.&nbsp;
 
