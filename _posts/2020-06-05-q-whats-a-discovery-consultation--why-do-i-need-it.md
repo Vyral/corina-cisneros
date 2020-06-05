@@ -5,7 +5,8 @@ date: 2020-06-05 18:00:00
 tags:
   - Home Seller Tips
 excerpt: 'Truly, now’s the perfect time to sell. Here’s how I help sellers begin.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Corina+Cisneros/Videos/Q-+Whats+a+Discovery+Consultation+%26+Why+Do+I+Need+It_.mp4
 pullquote: >-
   I’m still in the real estate business because I know what it takes to properly
   price a home and have it sell for top dollar.
