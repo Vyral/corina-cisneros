@@ -19,7 +19,7 @@ youtube_code: hjuDW5Uvhko
 
 {% include youtube.html %}
 
-Here are four things to consider when buying a waterfront property.
+<p style="text-align:center">Here are four things to consider when buying a waterfront property.</p>
 
 Before we get started with today’s topic, I’d like to extend a congratulations to my clients Jim and Maureen for the purchase of their beautiful lakefront property here in Gilford, New Hampshire. Enjoy your lovely new home\!&nbsp;
 
