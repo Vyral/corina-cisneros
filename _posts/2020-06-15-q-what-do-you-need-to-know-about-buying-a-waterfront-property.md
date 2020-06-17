@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/keys-yt-corina-cisneros.jpg
-youtube_code: coaVPv92F68
+youtube_code: vD-6VOskriI
 ---
 
 {% include youtube.html %}
