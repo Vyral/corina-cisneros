@@ -19,7 +19,7 @@ youtube_code: vD-6VOskriI
 
 {% include youtube.html %}
 
-<p style="text-align:center">Here are four things to consider when buying a waterfront property.</p>
+<p style="text-align:center"><em>Here are four things to consider when buying a waterfront property.</em></p>
 
 Before we get started with today’s topic, I’d like to extend a congratulations to my clients Jim and Maureen for the purchase of their beautiful lakefront property here in Gilford, New Hampshire. Enjoy your lovely new home\!&nbsp;
 
@@ -33,4 +33,4 @@ Then there’s the waterfront line of the property. Most desirable is a sandy be
 
 Now we’re ready to discuss the house itself. I’ve seen them all—small houses, giant houses, seasonal houses, and year-round houses. Finding the right property at the right spot on the lake can feel nearly impossible, which is why people sometimes buy a piece of property only to tear it down and build a new house. If that approach entices you, give me a call. I know many builders in the area.&nbsp;
 
-For those ready to sell their house, don’t hesitate to reach out to me. I can come over and do a complete market analysis, taking into account all of these aforementioned factors. Buyers: I’d love to hunt for the house with you and use my market expertise to see whether we can go in on the house below, at, or above its asking price. As always, I’m here to answer any real estate questions you have\!
+For those ready to sell their house, don’t hesitate to reach out to me. I can come over and do a complete market analysis, taking into account all of these aforementioned factors. Buyers: I’d love to hunt for the house with you and use my market expertise to see whether we can go in on the house below, at, or above its asking price. As always, I’m here to answer any real estate questions you have!
