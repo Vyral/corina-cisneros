@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 Common Buyer Regrets and How to Avoid Them
-date:
+date: 2020-07-01 13:16:06
 tags:
 excerpt: 'From neighborhood choice to financing, here are the top six buyer regrets.'
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/regrets-yt-corina-cisneros.jpg
 youtube_code: QWlleB8RgC8
 ---
 
-{% include youtube.html %}<center>From neighborhood choice to financing, here are the top six buyer regrets.</center>
+{% include youtube.html %}
+
+<center>From neighborhood choice to financing, here are the top six buyer regrets.</center>
+
+&nbsp;
 
 Before we get started on today’s topic, I want to congratulate one of my favorite clients, Chris, who recently bought a beautiful waterfront home on the broads of Lake Winnipesaukee\! It was a pleasure working with you.&nbsp;
 
