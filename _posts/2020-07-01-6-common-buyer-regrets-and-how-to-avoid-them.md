@@ -15,7 +15,7 @@ youtube_code: QWlleB8RgC8
 
 {% include youtube.html %}
 
-<center><em>From neighborhood choice to financing, here are the top six buyer regrets.</em></center>
+<p style="text-align:center"><em>From neighborhood choice to financing, here are the top six buyer regrets.</em></p>
 
 &nbsp;
 
