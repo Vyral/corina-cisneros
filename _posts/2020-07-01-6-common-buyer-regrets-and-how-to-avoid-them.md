@@ -17,8 +17,6 @@ youtube_code: QWlleB8RgC8
 
 <p style="text-align:center"><em>From neighborhood choice to financing, here are the top six buyer regrets.</em></p>
 
-&nbsp;
-
 Before we get started on today’s topic, I want to congratulate one of my favorite clients, Chris, who recently bought a beautiful waterfront home on the broads of Lake Winnipesaukee\! It was a pleasure working with you.&nbsp;
 
 According to surveys conducted by Zillow, there are six main regrets that buyers tend to have after purchasing a home:&nbsp;
