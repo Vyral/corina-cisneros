@@ -35,4 +35,4 @@ According to surveys conducted by Zillow, there are six main regrets that buyers
 
 **1\. Wishing they could have started their home search earlier**. With us, this isn’t an issue because we have a phenomenal website that you can subscribe to if you want immediate notification of the latest listings that fit your pre-selected criteria. You can start looking as early as six months, a year, or two years in advance. We don’t have an agenda; we work for you, and *your* timetable.
 
-For a thorough, painless, and regret-free home buying experience, give me a call or send an email. The Cisneros Realty Group is always here for you\!&nbsp;
+For a thorough, painless, and regret-free home buying experience, give me a call or send an email. The Cisneros Realty Group is always here for you!&nbsp;
