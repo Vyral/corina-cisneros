@@ -19,7 +19,7 @@ youtube_code: AdmnolcS0U4
 
 {% include youtube.html %}
 
-<p style="text-align:center">Here’s what it means when your home generates offers quickly.</p>
+<p style="text-align:center"><em>Here’s what it means when your home generates offers quickly.</em></p>
 
 There are two critical decisions a seller needs to make before putting their home on the market: choosing the right Realtor (that’s me, of course), and pricing the property correctly. That means doing a lot of research on the comparable properties in and around your area, taking into account not just recent sales, but also relevant properties that *didn’t* sell.&nbsp;
 
@@ -31,4 +31,4 @@ So, if you want your property to sell quickly and for top dollar, you know who t
 
 Lastly, I’d like to leave off on a note of congratulations: At 2:21 in the video above, check out the beautiful mountain top home on Gunstock Stock my client Jeff just purchased\! Jeff, congratulations to you and your family on the amazing new home; enjoy everything the lakes region has to offer\!&nbsp;
 
-If you have further questions about selling quickly or anything else pertaining to real estate, give me a call. I’d be thrilled to meet with you and discuss the features of your property. I’m here to help with all of your buying and selling needs\!
+If you have further questions about selling quickly or anything else pertaining to real estate, give me a call. I’d be thrilled to meet with you and discuss the features of your property. I’m here to help with all of your buying and selling needs!
