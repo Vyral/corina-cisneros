@@ -19,7 +19,7 @@ youtube_code: AdmnolcS0U4
 
 {% include youtube.html %}
 
-Here’s what it means when your home generates offers quickly.
+<p style="text-align:center">Here’s what it means when your home generates offers quickly.</p>
 
 There are two critical decisions a seller needs to make before putting their home on the market: choosing the right Realtor (that’s me, of course), and pricing the property correctly. That means doing a lot of research on the comparable properties in and around your area, taking into account not just recent sales, but also relevant properties that *didn’t* sell.&nbsp;
 
