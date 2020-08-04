@@ -29,6 +29,6 @@ There are two critical decisions a seller needs to make before putting their hom
 
 So, if you want your property to sell quickly and for top dollar, you know who to list with. A quick sale doesn’t mean your home was underpriced, it means **you’ve saved yourself from the hassle of more showings and avoided the stress that comes with extended time on the market.&nbsp;**
 
-Lastly, I’d like to leave off on a note of congratulations: At 2:21 in the video above, check out the beautiful mountain top home on Gunstock Stock my client Jeff just purchased! Jeff, congratulations to you and your family on the amazing new home; enjoy everything the lakes region has to offer!&nbsp;
+Lastly, I’d like to leave off on a note of congratulations: At 2:21 in the video above, check out the beautiful mountaintop home on Gunstock my client Jeff just purchased! Jeff, congratulations to you and your family on the amazing new home; enjoy everything the lakes region has to offer!&nbsp;
 
 If you have further questions about selling quickly or anything else pertaining to real estate, give me a call. I’d be thrilled to meet with you and discuss the features of your property. I’m here to help with all of your buying and selling needs!
