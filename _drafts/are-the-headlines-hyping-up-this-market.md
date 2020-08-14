@@ -17,7 +17,9 @@ youtube_code: mHVPByHD_qU
 
 {% include youtube.html %}
 
-As we push further into August, our market is crazier than ever. I wanted to provide an unscripted update—the honest thoughts I’d share with you if we sat down for a coffee and discussed the news. **Here is just a small taste of the headlines gracing various local and national publications right now:**
+<center><em>Here are some of my unfiltered thoughts on our local real estate market.</em></center>
+
+<br>As we push further into August, our market is crazier than ever. I wanted to provide an unscripted update—the honest thoughts I’d share with you if we sat down for a coffee and discussed the news. **Here is just a small taste of the headlines gracing various local and national publications right now:**
 
 * “Market for Second Homes Is Still Red Hot in Tourism Areas”
 * “Homes Continue to Sell at Fastest Pace in Two Years”
