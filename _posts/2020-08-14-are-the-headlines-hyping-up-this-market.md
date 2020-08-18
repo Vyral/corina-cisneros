@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/unscripted-yt-corina-cisneros.jpg
-youtube_code: I7XNDpxCZbc
+youtube_code: NVu8ZyTn0dQ
 ---
 
 {% include youtube.html %}
