@@ -17,7 +17,7 @@ youtube_code: evc8zqWO7QM
 
 {% include youtube.html %}
 
-These are the differences between lake access and waterfront homes.
+<p style="text-align:center;">These are the differences between lake access and waterfront homes.</p>
 
 Are lake homes always waterfront properties? The simple answer is no, but allow me to explain:
 
