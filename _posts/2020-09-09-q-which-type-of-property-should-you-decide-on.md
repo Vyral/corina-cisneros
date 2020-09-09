@@ -20,7 +20,7 @@ youtube_code: Jjc132SszRM
 
 {% include youtube.html %}
 
-<p style="text-align:center;">Condos and single-family homes each come with a set of pros and cons.</p>
+<p style="text-align:center;"><em>Condos and single-family homes each come with a set of pros and cons.</em></p>
 
 Should you buy a condominium or single-family home?
 
