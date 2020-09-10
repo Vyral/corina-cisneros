@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: Which Type of Property Should You Decide On?'
+title: 'Q: Which Type of Property Should You Purchase?'
 date: 2020-09-09 18:33:43
 tags:
   - Home Buyer Tips
@@ -28,10 +28,10 @@ This seems like a polarizing topic for most people. Some say they don’t want t
 
 {% include pullquote.html %}
 
-Owning a single-family home, on the other hand, doesn’t carry any official fees, but **there are still costs to consider.** After all, someone has to mow the yard, make sure the trash gets removed, and so on.&nbsp;
+Owning a single-family home, on the other hand, doesn’t carry any official fees, but **there are still costs to consider.** After all, someone has to mow the yard, make sure the trash gets removed, etc.&nbsp;
 
 So the decision boils down to this: Would you rather be on your own land where you can do whatever you want, or are you willing to live with the rules and restrictions of a condo association?&nbsp;
 
-In any case, we have plenty of inventory for both types of properties in our area, although not as many condos. Lakeside condos are less expensive because you’ll have shared beaches, docks, slips, and/or moorings, and you won’t be paying property taxes. If you bought a lakeside single-family home on, say, Lake Winnipesaukee, it’ll likely cost you north of $1.2 million. Property taxes will also account for $10 to $20, depending on the town you choose.&nbsp;
+In any case, we have plenty of inventory for both types of properties in our area, although not as many condos. Lakeside condos are less expensive because you’ll have shared beaches, docks, slips, and/or moorings, and you won’t be paying property taxes. If you bought a lakeside single-family home on, say, Lake Winnipesaukee, it’ll likely cost you north of $1.2 million. Property taxes will also account for $10,000 to $20,000, depending on the town you choose.&nbsp;
 
 If you need more help deciding between a condo or single-family home or would like more information on what’s available in our market, don’t hesitate to reach out to me. I’d be happy to help.&nbsp;
