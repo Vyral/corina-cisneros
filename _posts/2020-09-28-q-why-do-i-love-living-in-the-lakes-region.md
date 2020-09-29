@@ -19,7 +19,7 @@ youtube_code: 29_5zwodnjE
 
 {% include youtube.html %}
 
-*Here’s why I chose to call the Lakes Region my home.*
+<p style="text-align:center;"><em>Here’s why I chose to call the Lakes Region my home.</em></p>
 
 Why do I love living in the Lakes Region?
 
