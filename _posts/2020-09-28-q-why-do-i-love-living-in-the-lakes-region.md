@@ -19,15 +19,15 @@ youtube_code: 29_5zwodnjE
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s why I chose to call the Lakes Region my home.</em></p>
+*Here’s why I chose to call the Lakes Region my home.*
 
 Why do I love living in the Lakes Region?
 
-First of all, I’m not afraid of the four seasons. In fact, I love all of them—**I think it’s great to experience the variation in seasons.** In the winter, my family and I can go snowmobiling and skiing. Then, when summer hits, we can go boating and hit the sandbars on Lake Winnipesaukee. In addition to my regular lake boat, I bought a sailboat this summer. I grew up in the Carribean and sometimes miss being on the ocean, but the lake is a neat place to do watersports. Fall and spring have their own special charms as well.&nbsp;
+First of all, I’m not afraid of the four seasons. In fact, I love all of them—**I think it’s great to experience the variation in seasons.** In the winter, my family and I can go snowmobiling and skiing. Then, when summer hits, we can go boating and hit the sandbars on Lake Winnipesaukee. In addition to my regular lake boat, I bought a sailboat this summer. I grew up in the Caribbean and sometimes miss being on the ocean, but the lake is a neat place to do watersports. Fall and spring have their own special charms as well.&nbsp;
 
 {% include pullquote.html %}
 
-Another thing I love to do here that’s unique to my lifestyle is fly. I’ve been a licensed private pilot for 30 years, and the Laconia Airport is just a five-minute drive from my office. My son Freddy is a pilot too, and flying is our chance to relax and get away from everything. In the summer, especially, we have the privilege of flying all over New England. We’ve even flown down to Miami a few times to attend air shows.&nbsp;
+Another thing I love to do here that’s unique to my lifestyle is fly. I’ve been a licensed private pilot for 30 years, and the Laconia Airport is just a five-minute drive from my office. My son Freddy is a pilot too, and flying is our chance to relax and get away from everything. In the summer especially, we have the privilege of flying all over New England. We’ve even flown down to Miami a few times to attend air shows.&nbsp;
 
 The Lakes Region is also sparsely populated, especially during the off-season, which gives it a very chill vibe. I’ve lived in Boston, Miami, and New York, but *this* is the place I decided to live and work.&nbsp;
 
