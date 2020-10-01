@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: Here’s why I chose to call the Lakes Region my home.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Corina+Cisneros/Videos/Q-+Why+Do+I+Love+Living+in+the+Lakes+Region_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Corina+Cisneros/Videos/Q-+Why+Do+I+Love+Living+in+the+Lakes+Region_+(1).mp4
 pullquote: >-
   I’ve lived in Boston, Miami, and New York, but this is the place I decided to
   live and work.
@@ -14,12 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/lakes-region-yt-corina-cisneros.jpg
-youtube_code: 29_5zwodnjE
+youtube_code: b641R4Mutqo
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s why I chose to call the Lakes Region my home.</em></p>
+*Here’s why I chose to call the Lakes Region my home.*
 
 Why do I love living in the Lakes Region?
 
