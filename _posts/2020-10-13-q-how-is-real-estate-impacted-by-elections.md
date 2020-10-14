@@ -17,11 +17,11 @@ youtube_code: xnma66uAv2c
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>How will the upcoming presidential election impact real estate?</em></p>
+*How will the upcoming presidential election impact real estate?*
 
 How is real estate affected by presidential elections?&nbsp;
 
-Research company BTIG has been studying how real estate is impacted by presidential elections since 1963. They determined that during a typical year, during October and November, sales decrease by about 10%. Then they slow down more further into winter. They also concluded that 15% fewer sales happen during this time during election years.&nbsp;
+Research company BTIG has been studying how real estate is impacted by presidential elections since 1963. They determined that during a typical year, from October through November, sales decrease by about 10%. Then they slow down further into winter. They also concluded that 15% fewer sales happen at this time during election years.&nbsp;
 
 {% include pullquote.html %}
 
