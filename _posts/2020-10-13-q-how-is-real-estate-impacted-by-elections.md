@@ -17,7 +17,7 @@ youtube_code: xnma66uAv2c
 
 {% include youtube.html %}
 
-*How will the upcoming presidential election impact real estate?*
+<p style="text-align:center;"><em>How will the upcoming presidential election impact real estate</em></p>
 
 How is real estate affected by presidential elections?&nbsp;
 
