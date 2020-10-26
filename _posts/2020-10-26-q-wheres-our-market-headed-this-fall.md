@@ -17,7 +17,7 @@ youtube_code: '-PXtWJ227No'
 
 {% include youtube.html %}
 
-*Here are my thoughts about some of the latest real estate headlines.*
+<p style="text-align:center;"><em>Here are my thoughts about some of the latest real estate headlines.</em></p>
 
 I’m back with another update on the New Hampshire Lakes real estate market as we head closer to the end of the year. I’m going to look at all of the latest headlines and give my thoughts based on what I’m seeing out in the market every day:
 
