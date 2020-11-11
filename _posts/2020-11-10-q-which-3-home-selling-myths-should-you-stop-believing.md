@@ -18,7 +18,7 @@ youtube_code: rM8cUPAvp7g
 
 {% include youtube.html %}
 
-*Ascribing to these three myths will only hurt your home sale.*
+<p style="text-align:center;"><em>Ascribing to these three myths will only hurt your home sale.</em></p>
 
 I’ve been speaking with many homeowners lately who seem to believe the same home myths. Here are three such myths that you should stop believing right now:
 
