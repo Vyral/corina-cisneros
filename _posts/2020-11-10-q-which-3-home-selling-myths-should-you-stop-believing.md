@@ -8,7 +8,7 @@ tags:
 excerpt: Ascribing to these three myths will only hurt your home sale.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Corina+Cisneros/Videos/Q-+Which+3+Home+Selling+Myths+Should+You+Stop+Believing_.mp4
-pullquote: Today’s buyers are more educated than ever before.
+pullquote: Today’s buyers are more educated than ever.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -18,7 +18,7 @@ youtube_code: rM8cUPAvp7g
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Ascribing to these three myths will only hurt your home sale.</em></p>
+*Ascribing to these three myths will only hurt your home sale.*
 
 I’ve been speaking with many homeowners lately who seem to believe the same home myths. Here are three such myths that you should stop believing right now:
 
