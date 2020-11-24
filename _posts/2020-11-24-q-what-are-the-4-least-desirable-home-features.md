@@ -18,7 +18,7 @@ youtube_code: pAwWPxa-ETE
 
 {% include youtube.html %}
 
-These are the four things no buyer wants to see in a home these days.
+<p style="text-align:center;"><em>These are the four things no buyer wants to see in a home these days.</em></p>
 
 **First, let me wish a happy belated Thanksgiving to all of you.** I hope you had a great holiday. Our family did a Thanksgiving Zoom from around the country, and while it was a little strange, all the love and affection was there. Now onto today’s topic: The 4 most undesirable home features in today’s market.
 
