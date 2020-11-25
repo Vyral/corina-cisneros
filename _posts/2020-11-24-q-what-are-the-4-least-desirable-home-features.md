@@ -12,7 +12,7 @@ pullquote: A two-story foyer equals a lot of wasted space.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/thanksgiving-yt-corina-cisneros.jpg
+youtube_alternate_image:
 youtube_code: pAwWPxa-ETE
 ---
 
