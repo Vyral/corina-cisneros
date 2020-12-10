@@ -17,7 +17,7 @@ youtube_code: u-0nNukBw1s
 
 {% include youtube.html %}
 
-Here’s a holiday message of thanks from our team as we head into 2021.
+<p style="text-align:center;"><em>Here’s a holiday message of thanks from our team as we head into 2021.</em></p>
 
 Today I want to take a few moments to reflect on 2020. First, **I want to thank you, your friends, and your family for supporting us and allowing us to be part of your life.** This has been such a difficult year for all of us, but we've been very fortunate to have you in our corner.
 
