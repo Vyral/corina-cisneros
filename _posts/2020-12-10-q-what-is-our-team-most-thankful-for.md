@@ -24,13 +24,13 @@ Today I want to take a few moments to reflect on 2020. First, **I want to thank 
 We’ve been in business now for six years and have helped almost 400 families make a transition between homes. **That’s not just a reflection of my success, it’s a reflection of the success of all the members of our team, including:&nbsp;**
 
 * Federico, my son and business partner. Without him, we could not give such great customer service.
-* Kelly McAvoy, our client services manager. She has been phenomenal helping us with all the compliance and paperwork.
+* Kelly McAvoy, our client services manager. She has been phenomenal in helping us with all the compliance and paperwork.
 * Melinda Johnston, a phenomenal new agent on our team who has done a fantastic&nbsp; job handling client services and listings.
 * Alejandro, my other son who always helps us out in a pinch.
 * Norman de Marco and Chiquita Banana, my pups, who are also part of our team.
 
 {% include pullquote.html %}
 
-With that being said, I want to wish all of you a great holiday season, a phenomenal 2021, and a good riddance to 2020. I think we’re all a bit stronger after this year, and I hope you’re as optimistic as I am for the next one. From myself, my family, and my team: *Feliz Navidad y prospero a&ntilde;o nuevo\!* (Merry Christmas and Happy New Year\!)
+With that being said, I want to wish all of you a great holiday season, phenomenal 2021, and good riddance to 2020. I think we’re all a bit stronger after this year, and I hope you’re as optimistic as I am for the next one. From myself, my family, and my team: *Feliz Navidad y prospero a&ntilde;o nuevo\!* (Merry Christmas and happy New Year\!)
 
 If you have any questions or real estate needs I can assist with in the future, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
