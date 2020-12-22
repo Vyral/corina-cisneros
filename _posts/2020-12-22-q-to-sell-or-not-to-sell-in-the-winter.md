@@ -23,4 +23,4 @@ A question I’m frequently asked this time of year is whether or not you should
 
 In the spring, your house will be competing with five or 10 times as many properties in both your price range and area. Winter, on the other hand, is advantageous for sellers because it’s slim pickings for buyers. If you’re considering selling in the winter (December through February), you can take advantage of a uniquely beneficial market.&nbsp;
 
-Give me a call or send an email if you’re considering selling this winter or have any questions. **I’d be thrilled to be your real estate agent.** Remember: *Mi casa es su casa**\!*
+Give me a call or send an email if you’re considering selling this winter or have any questions. **I’d be thrilled to be your real estate agent.** Remember: *Mi casa es su casa\!*
