@@ -17,7 +17,7 @@ youtube_code: '-5gdAeXlTww'
 
 {% include youtube.html %}
 
-Here are a few reasons why it’s beneficial to sell your home in the winter.
+<p style="text-align:center;"><em>Here are a few reasons why it’s beneficial to sell your home in the winter.</em></p>
 
 A question I’m frequently asked this time of year is whether or not you should sell your home during the wintertime. The simple answer is **yes, you should sell in the winter months.** In the winter, there are a lot more buyers who, for various reasons, *must* buy and can’t wait until the spring—that also means there are fewer tire-kickers this time of year.&nbsp;
 
