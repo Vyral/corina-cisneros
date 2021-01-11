@@ -21,4 +21,4 @@ youtube_code: _2rwAMqUJcY
 
 We made it through the year 2020—good riddance, so long, never come back, please\! Now that we’re here in January starting what will hopefully be a much less crazy 2021, I thought it’d be fun to look back at my zaniest moments from 2020. That’s right, folks—**it’s blooper reel time\!** What better way to welcome new beginnings than by sharing some laughs? Starting at 0:48 in the video above, enjoy some candid Corina moments that were (thankfully) edited out of 2020’s videos.&nbsp;
 
-I look forward to hearing from you soon. As always, reach out with any questions or real estate needs you may have; I’m here to help. Mi casa es su casa\!&nbsp;
+I look forward to hearing from you soon. As always, reach out with any questions or real estate needs you may have; I’m here to help. Mi casa es su casa!&nbsp;
