@@ -18,7 +18,7 @@ youtube_code: 4vow9opzMTU
 {% include youtube.html %}
 
 <center><em>Here’s what you need to know about the activity in our market.</em></center>
-&nbsp;&nbsp;
+<br>
 Our market is very intense at the moment. This is no surprise—the reasons are obvious: Our low inventory, the change in our living standards due to COVID, and the fact that many people are leaving their areas for places with more space. 
 
 People aren’t traveling as much before, either. The CEO of Airbnb said that people are willing to drive 3.5 hours from their primary home to a vacation destination, which for our area, creates a circumference that extends down to Rhode Island and Connecticut. On top of that, interest rates are historically low.
