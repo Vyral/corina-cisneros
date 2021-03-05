@@ -10,7 +10,7 @@ enclosure: >-
 pullquote: If you’re going to step into this arena, you’ll need to come armed with as many tools and negotiating weapons as you can.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/Feb_2021_YT-Corina_Cisneros_SS.jpg
 youtube_code: 4vow9opzMTU
 ---
