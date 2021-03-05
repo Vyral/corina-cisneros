@@ -11,7 +11,7 @@ pullquote: If you’re going to step into this arena, you’ll need to come arme
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/Feb 2021_YT-Corina Cisneros SS.jpg
+youtube_alternate_image: /uploads/Feb_2021_YT-Corina_Cisneros_SS.jpg
 youtube_code: 4vow9opzMTU
 ---
 
