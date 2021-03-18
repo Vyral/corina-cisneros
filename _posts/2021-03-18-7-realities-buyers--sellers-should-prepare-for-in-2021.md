@@ -30,4 +30,4 @@ Are you still planning on buying or selling in 2021 but haven’t pulled the tri
 6. Challenging appraisal values
 7. Overcrowded and overvalued markets
 
-**You can read the article in its entirety**[**here.**](https://faruqiteam.com/blog/7-realities-your-buyers-and-sellers-should-prepare-for-in-2021/) If you have questions about this topic or would like help preparing for a home sale or purchase, don’t hesitate to reach out to me. I’d love to speak with you.
+**You can read the article in its entirety&nbsp;**[**here.**](https://faruqiteam.com/blog/7-realities-your-buyers-and-sellers-should-prepare-for-in-2021/) If you have questions about this topic or would like help preparing for a home sale or purchase, don’t hesitate to reach out to me. I’d love to speak with you.
