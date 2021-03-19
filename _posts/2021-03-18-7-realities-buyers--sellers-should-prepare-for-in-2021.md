@@ -20,7 +20,7 @@ youtube_code: wVUlb1gt3B8
 
 <center>&nbsp;</center>
 
-Are you still planning on buying or selling in 2021 but haven’t pulled the trigger yet? There’s a lot you need to know about our real estate market. I recently came across an article about seven realities buyers and sellers should prepare for this year that I want to share with you that will help you a lot. Even though we’re nearing the end of March already, these realities still persist:
+Are you still planning on buying or selling in 2021 but haven’t pulled the trigger yet? There’s a lot you need to know about our real estate market. I recently came across an article about seven realities buyers and sellers should prepare for this year that I want to share with you that will help you a lot. Even though we’re nearing the end of March already, these realities persist:
 
 1. Low inventory, high demand, and multiple offers
 2. Buyers will pay for overpriced homes
