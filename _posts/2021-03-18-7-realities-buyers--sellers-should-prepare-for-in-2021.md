@@ -5,7 +5,8 @@ date: 2021-03-18 09:33:00
 tags:
   - Real Estate
 excerpt: Here are seven realities buyers and sellers should know about our market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Corina+Cisneros/Videos/7+Realities+Buyers+%26+Sellers+Should+Prepare+for+in+2021+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
