@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tips for Pricing to Sell in This Real Estate Market
-date: 2021-03-18 09:33:00
+date: 2021-04-06 09:33:00
 tags:
   - Real Estate
   - Home Seller Tips
