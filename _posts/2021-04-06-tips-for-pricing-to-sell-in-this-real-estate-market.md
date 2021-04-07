@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/pricing-your-home-yt-corina-cisneros-ss.jpg
-youtube_code: L4ywKg0_T0Y
+youtube_code: wicrMHcVHSM
 ---
 {% include youtube.html %}
 
