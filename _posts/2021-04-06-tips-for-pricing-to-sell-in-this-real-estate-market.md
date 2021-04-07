@@ -7,7 +7,7 @@ tags:
   - Home Seller Tips
 excerpt: Here’s what I learned after becoming a certified Pricing Strategy Advisor.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Corina+Cisneros/Videos/Tips+for+Pricing+to+Sell+in+This+Real+Estate+Market.mp4
+  https://vyralmarketing.s3.amazonaws.com/Corina+Cisneros/Videos/Tips+for+Pricing+to+Sell+in+This+Real+Estate+Market+(1).mp4
 pullquote: 'If you price above market value, you won’t get as many offers.'
 enclosure_type: video/mp4
 enclosure_time:
