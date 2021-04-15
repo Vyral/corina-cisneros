@@ -5,9 +5,9 @@ date: 2021-04-15 09:33:00
 tags:
   - Real Estate
   - Home Buyer Tips
-excerpt: >-
+excerpt: Here are the best home improvement projects to get you top dollar.
+enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Corina+Cisneros/Videos/Remodels+That+Will+Get+You+Top+Dollar.mp4
-enclosure: Here are the best home improvement projects to get you top dollar.
 pullquote: A complete kitchen refurbishment is the top project you can undertake.
 enclosure_type: video/mp4
 enclosure_time:
