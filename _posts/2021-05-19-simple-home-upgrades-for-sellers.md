@@ -30,11 +30,11 @@ Here are 11 simple, inexpensive upgrades that can transform your outdated home i
 
 **4\. Upgrade old lighting.** If you have old fixtures or lamps, freshen it up with new ones.
 
-**5\. Install new outlet covers and switch plates. **
+**5\. Install new outlet covers and switch plates.** 
 
 {% include pullquote.html %}
 
-**6\. Remove dated window and wall treatments. **
+**6\. Remove dated window and wall treatments.** 
 
 **7\. Add mirrors.** The more mirrors the better; they add light by reflecting it and make spaces feel larger.
 
