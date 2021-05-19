@@ -16,7 +16,7 @@ youtube_code: ETkxX6Abnnk
 ---
 {% include youtube.html %}
 
-<center>Bring your home up to date with these 11 easy, inexpensive home updates.</center>
+<center><em>Bring your home up to date with these 11 easy, inexpensive home updates.</em></center>
 
 <center>&nbsp;</center>
 
