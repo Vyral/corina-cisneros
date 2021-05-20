@@ -30,11 +30,11 @@ Here are 11 simple, inexpensive upgrades that can transform your outdated home i
 
 **4\. Upgrade old lighting.** If you have old fixtures or lamps, freshen it up with new ones.
 
-**5\. Install new outlet covers and switch plates.** 
+**5\. Install new outlet covers and switch plates.**
 
 {% include pullquote.html %}
 
-**6\. Remove dated window and wall treatments.** 
+**6\. Remove dated window and wall treatments.**
 
 **7\. Add mirrors.** The more mirrors the better; they add light by reflecting it and make spaces feel larger.
 
@@ -44,7 +44,7 @@ Here are 11 simple, inexpensive upgrades that can transform your outdated home i
 
 **10\.**&nbsp;**Replaced dated or mismatched appliances.** No one wants to buy a house with old appliances, so ensure the new ones match.
 
-**11\. Paint the house with neutral colors.** Spend as much money as you can afford painting the house. Fresh, neutral paint is crucial.
+**11\. Paint the house with neutral colors.** Spend as much money as you can afford when painting the house. Fresh, neutral paint is crucial.
 
 If you have questions about these simple spruces or any other real estate matter, call or email me. Remember: Mi casa es su casa\!
 
