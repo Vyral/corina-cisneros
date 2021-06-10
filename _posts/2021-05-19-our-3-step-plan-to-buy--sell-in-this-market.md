@@ -5,7 +5,8 @@ date: 2021-05-19 09:33:00
 tags:
   - Real Estate
 excerpt: 'To buy and sell in this market, you need to plan, commit, and execute. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Corina+Cisneros/Videos/Our+3-Step+Plan+to+Buy+%26+Sell+in+This+Market.mp4
 pullquote: With my experience, I can help you minimize the stress involved.
 enclosure_type: video/mp4
 enclosure_time:
