@@ -16,7 +16,7 @@ youtube_code: ci7W00zHHOo
 ---
 {% include youtube.html %}
 
-<center><em>Bring your home up to date with these 11 easy, inexpensive home updates.</em></center>
+<center><em>To buy and sell in this market, you need to plan, commit, and execute.</em></center>
 
 <center>&nbsp;</center>
 
