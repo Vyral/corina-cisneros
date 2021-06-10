@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Our 3-Step Plan to Buy & Sell in This Market '
-date: 2021-05-19 09:33:00
+date: 2021-06-10 09:33:00
 tags:
   - Real Estate
 excerpt: 'To buy and sell in this market, you need to plan, commit, and execute. '
